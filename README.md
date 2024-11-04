@@ -1,0 +1,2 @@
+# Newcodingbot
+To simplify code
